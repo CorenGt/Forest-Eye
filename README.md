@@ -1,6 +1,6 @@
 # 🌲 ForestEye - Orman Segmentasyon Projesi
 
-![Predict]('ss_1.png')
+![Predict](ss_1.png)
 
 ## 📖 Proje Açıklaması
 
@@ -51,7 +51,7 @@ ForestEye, satellit görüntülerinden orman alanlarını otomatik olarak tespit
 - **Loss Function**: BCE + Jaccard Loss
 - **Metrikler**: IoU Score, F1-Score, Binary Accuracy
 
-![Result]('ss_2.png')
+![Result](ss_2.png)
 
 ## 📁 Dosya Yapısı
 
